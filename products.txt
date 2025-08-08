@@ -1,0 +1,23 @@
+Electronics,2,smartphone X,539.991,50,10,9,1,techbrand,2
+Electronics,3,laptop,599.993,31,25,9,1,cyberpower,2
+Electronics,4,phone X pro,1169.99,21,10,9,1,technova,3
+Electronics,5,sonicbeats,134.991,50,10,9,1,buds pro,1
+Clothing,6,classic denim jeans,44.991,81,10,10,1,M,L
+Clothing,7,cotten crewneck T-shirt,17.991,0,10,10,1,,
+Clothing,8,Cotton Crewneck T-Shirt,17.991,81,10,10,1,S,M
+Clothing,9,Arctic Winter Jacket,103.992,120,20,10,1,S,M
+Clothing,10,TurboRun Sports Shoes,80.991,140,10,10,1,7-12 (Men), 5-10 (Women)
+Book,11,C++ Programming: Master the Language,35.991,2,10,11,1,john code master
+Book,12,Design Patterns: The Ultimate Guide,41.391,31,10,11,1,Alice DevExpert
+Book,13,Clean Code: Best Practices for Developers,33.2405,60,5,11,1,Robert C. Martin
+Book,16,science,2160,20,10,9,1,chales
+Electronics,17,laptop xpro,2109.59,20,10,13,0,techbrand,2
+Clothing,18,jeans,21.591,50,10,9,0,M,L
+Clothing,19,lehnga,51300,35,5,14,0,S,M
+Clothing,20,shirt,49.99,52,5,2,1,S,M
+Electronics,21,laptop X,43367.5,3,5,2,1,techbrand,2
+Book,22,harry potter,41.7905,50,5,2,0,james charles
+Clothing,23,shawls,360,86,10,5,0,M,L
+Electronics,24,light bulb,33.2405,26,5,6,1,tech brand,1
+Electronics,25,airpods pro,43.59,0,0,2,1,techy techy,2
+Book,26,LA,980,22,2,7,0,ali

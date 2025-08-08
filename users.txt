@@ -1,0 +1,8 @@
+Admin,1,admin,admin
+Seller,2,s1,s1
+Buyer,3,b1,b1
+Buyer,4,ahmad,123
+Seller,5,aslam,456
+Seller,6,faiqa,12345
+Seller,7,ali,123
+Buyer,8,mehwish,1234
